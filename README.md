@@ -20,7 +20,7 @@ The following **optional** features are implemented:
 * [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-![]([web102_prework/walkthrough.gif](https://github.com/ThomasKidane/web102_prework/blob/main/walkthrough.gif))
+![]([https://web102_prework/walkthrough.gif](https://github.com/ThomasKidane/web102_prework/blob/main/walkthrough.gif))
 
 Here's a walkthrough of implemented features:
 
